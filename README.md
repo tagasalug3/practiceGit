@@ -1,1 +1,1 @@
-Practice again ommiting to github.
+Practice again commiting to github.
